@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apX --indicator-style=slash
+ls -amX --indicator-style=slash
