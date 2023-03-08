@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apX --indicator-style=slash | sed -e 's/\(.*\)[\/]$/\1\//' | awk '{if (NR>2) print $0}' | tr '\n' ',' | sed 's/,$/\n/'
+ls -apX --indicator-style=slash
