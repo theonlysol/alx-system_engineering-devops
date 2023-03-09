@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -vadmX --indicator-style=slash
+ls -vamX --indicator-style=slash
